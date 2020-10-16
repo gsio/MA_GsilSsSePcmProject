@@ -1,2 +1,2 @@
 # MA_GsilSsSePcmProject
-# test
+# 그린동 -spcm tablet app 버젼관리
